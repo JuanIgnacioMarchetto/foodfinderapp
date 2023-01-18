@@ -11,6 +11,8 @@
 
 html {
   background: url(./dffca74282382587f9b3d221a5c6593c.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-size: 62.5%;
 }
 
