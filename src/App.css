@@ -4,12 +4,7 @@
       display: flex;
     padding: 50px;/
     flex-wrap: wrap;
-   /*  flex-direction: row-reverse; */
     justify-content: space-between;
-    /* justify-content: space-around; */
-    /* justify-content: flex-end; */
-    /* justify-content: start;  */
- /*    align-items: stretch; */
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
   padding: 0;
