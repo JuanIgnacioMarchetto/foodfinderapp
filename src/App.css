@@ -1,6 +1,19 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,600,600i,700&display=swap");
 
 * {
+      display: flex;
+    padding: 50px;
+    border: solid 5px blue;
+    /* flex-direction: row; */
+    /* flex-wrap: nowrap; */
+   /*  flex-direction: column; */
+    flex-wrap: wrap;
+   /*  flex-direction: row-reverse; */
+    justify-content: space-between;
+    /* justify-content: space-around; */
+    /* justify-content: flex-end; */
+    /* justify-content: start;  */
+ /*    align-items: stretch; */
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
   padding: 0;
